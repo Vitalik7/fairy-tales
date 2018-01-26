@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Roboto:300,400,500');
+
+.App-header {
+  background: #bd8964;
+  color: #faf7f2;
+  font-family: 'Roboto', sans-serif;
+}
+
+.tale {
+  background: #b88865;
+  color: #faf7f2;
+}
