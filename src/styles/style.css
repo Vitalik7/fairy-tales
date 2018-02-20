@@ -8,5 +8,21 @@
 
 .tale {
   background: #b88865;
-  color: #faf7f2;
+  color: black;
+}
+
+.note {
+  position: relative;
+  top: 25px;
+  margin-left: -48px;
+
+}
+
+.book {
+  position: relative;
+  top: -5px;
+}
+
+.material-icon-star {
+  
 }
